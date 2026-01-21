@@ -3,3 +3,4 @@ Orange is second color
 Yellow is third color
 Green is fourth color
 Blue is fifth color
+Indigo is sixth color
