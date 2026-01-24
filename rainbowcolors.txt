@@ -5,3 +5,4 @@ Green is fourth color
 Blue is fifth color
 Indigo is sixth color
 Violet is seventh color
+These are all
